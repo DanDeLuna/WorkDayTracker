@@ -55,4 +55,11 @@ function checkTime() {
   }
 });
 }
-     
+     // Call the audit task function
+checkTime();
+
+// Use setTimeout to update the time every minute (1000ms * 60s)
+setTimeout(function () {
+  // clear the current URL
+  location = ''; // location references the current URL
+}, 1000 * 60);

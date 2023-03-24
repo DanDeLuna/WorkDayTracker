@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-## Your Task
+## Task Description 
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
@@ -9,7 +9,7 @@ Create a simple calendar application that allows a user to save events for each 
 ## User Story
 
 ```md
-AS AN employee with a busy schedule
+AS A Bootcamp student with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
@@ -75,13 +75,15 @@ This Challenge is graded based on the following criteria:
 
 * Application resembles the mock-up functionality provided in the Challenge instructions
 
-## Review
+## Tools used 
 
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
+The follows were used to make this:
+* HTML
+* CSS
+* JavaScript 
+* Jquery 
+* Bootstrap 
+* MomentJS
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
