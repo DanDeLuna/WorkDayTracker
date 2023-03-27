@@ -37,6 +37,8 @@ The following animation demonstrates the application functionality:
 <!-- @TODO: create ticket to review/update image) -->
 ![A user clicks on slots on the color-coded calendar and edits the events.](/Assets/Images/Screenshot%202023-03-26%20214559.png)
 
+![A user clicks on slots on the color-coded calendar and edits the events.](/Assets/Images/Screenshot%202023-03-27%20125145.png)
+
 ### Deployment: 
 
 * No download required 
